@@ -1,4 +1,4 @@
-# Olá! Eu sou o Guilherme Arroio
+## Olá! Eu sou o Guilherme Arroio
 
 <div>
   <a href="https://github.com/guilhermearroio">
@@ -7,7 +7,7 @@
   </a>
 </div>
 
-## Languages and tools:
+#### Languages and tools:
 
 <div style="display: inline_block;">
   <img align="center" alt="HTML5 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
