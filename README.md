@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Arroio
+# Olá! Eu sou o Guilherme Arroio
 
 <div>
   <a href="https://github.com/guilhermearroio">
@@ -7,14 +7,15 @@
   </a>
 </div>
 
-<div style="display: inline_block;"><br/>
+## Languages and tools:
+
+<div style="display: inline_block;">
   <img align="center" alt="HTML5 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS3 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="PHP Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
   <img align="center" alt="PHP Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"/>
 </div>
-
-##
+<hr/>
 
 ![Snake animation](https://github.com/guilhermearroio/guilhermearroio/blob/output/github-contribution-grid-snake.svg)
